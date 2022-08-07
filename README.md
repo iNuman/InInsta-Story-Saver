@@ -3,9 +3,9 @@
   
 InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram
 
-# Notice
-*You Must Reskin Before Live on Playstore.*
-(Paid App For Free)
+- ⚡  If  You  want  to join us  than  leave  a **Mail**.
+> Note: `-- Apache License 2.0` you can't Publish any Source code without permission. (banrossyn@gmail.com)
+
 
 <p align="center">
     <a href="">
