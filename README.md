@@ -3,7 +3,7 @@
   
 InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram
 
-- ⚡  If  You  want  to join us  than  leave  a **Mail**.
+- ⚡  If  You  want  to join us  than  leave  a **Mail** (for source code).
 > Note: `-- Apache License 2.0` you can't Publish any Source code without permission. (banrossyn@gmail.com)
 
 
