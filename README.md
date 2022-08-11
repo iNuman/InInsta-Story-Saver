@@ -3,10 +3,20 @@
   
 InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram
 
-- ⚡  If  You  want  to join us  than  leave  a **Mail** (for source code).
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission. (banrossyn@gmail.com)
+- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
+&
+<a href="https://t.me/banrossyn">Telegram</a>. 
 
+> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
+# 
+<p align="center">
+    <a href="https://www.paypal.com/paypalme/banrossyn">
+      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png"/>
+    </a>
+  </p>
+<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
+# 
 <p align="center">
     <a href="">
       <img src="https://user-images.githubusercontent.com/97843190/183115366-0c4352d0-6c5e-499b-aaf6-543bdf6ffe76.jpg" width="1280" />
