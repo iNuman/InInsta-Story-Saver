@@ -11,7 +11,7 @@ InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram
 # 
 <p align="center">
     <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png"/>
+      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png" width= "400"/>
     </a>
   </p>
 <p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
@@ -87,13 +87,8 @@ All Post types are Supported. You can view and save many things such as IGTV, Re
     <a>
       <img src="https://user-images.githubusercontent.com/97843190/183115448-c4cd6458-c925-4b52-b13d-9e0b614c52ff.png" hight="400" width="200" />
     </a>
- <a>
-  </p>
+</p>
   
-
-
-
- 
 # Disclaimer:
 - This video downloader is not associated with Instagram.
 - This application is NOT affiliated or endorsed by Instagram.
@@ -114,59 +109,87 @@ All Post types are Supported. You can view and save many things such as IGTV, Re
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.
     See the License for the specific language governing permissions and limitations under the License."
 
+# 
+<table>
 
-# Playstore Apps:
-<p align="center">
-  <h1 align="center" href="https://github.com/BanRossyn/InSaver-Reels-Story-Video" >InSaver: Reels , Story & Video</h1>
-<p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
-      <img src="https://play-lh.googleusercontent.com/kXo4mMkPtNGq-Y3vkd8d6GKSJz1dtp90Uj82DEEcHYJdUicyVlQ9c7mF_d9B_HGPsnk=w2560-h1440" width="1280" />
-    </a>
-  </p>
-  
-  <p align="center">
-  <h1 align="center" href="https://github.com/BanRossyn/InStory-Downloader-for-Instagram-Facebook-Whatsapp" >InStory : Post & Story Saver</h1>
-    <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.storydownloader">
-      <img src="https://play-lh.googleusercontent.com/DjcK-Pc16a_i6cvk2snjyHyT2twaIA3iqOIqBxX0uUwY09hvxb-0k6w02ufoY8Clxg=w2560-h1440" width="1280" />
-    </a>
-  </p>
-  
-   <p align="center">
-  <h1 align="center" href="https://github.com/BanRossyn/2048-Merge-Block-Puzzle-Game-For-Android" >2048: Charm Number Puzzle Game</h1>
-    <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.merge.game2048">
-      <img src="https://play-lh.googleusercontent.com/exSR4jzl3Leor9LhC7TpUD1DrVLplJwGhYJXSLo1wyJK4Dn_Qvf2dk4s4CNqky8QmmP_=w2560-h1440" width="1280" />
-    </a>
-  </p>
-  
-   <p align="center">
-  <h1 align="center" href="https://play.google.com/store/apps/details?id=com.banrossyn.tic.tac.toe" >Tic Tac Toe - Classic</h1>
-    <p align="center">
-    <a href="https://github.com/BanRossyn/Tic-Tac-Toe-classic">
-      <img src="https://play-lh.googleusercontent.com/B-gg84Uaw_I0sxA4a4MzU7YJt1gB5Kjs06lm_OEmUXho-mLzpNwOrElWjAfy_QLnIQ=w2560-h1440" width="1280" />
-    </a>
-  </p>
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>InSaver: Reels , Story &amp; Video</li>
+</ul>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader"><img src="https://play-lh.googleusercontent.com/kXo4mMkPtNGq-Y3vkd8d6GKSJz1dtp90Uj82DEEcHYJdUicyVlQ9c7mF_d9B_HGPsnk=w2560-h1440"/></a></td>
 
 
-  <p align="center">
-  <h1 align="center" href="" >WA & WAB Status Saver</h1>
-    <p align="center">
-    <a href="https://github.com/BanRossyn/WA-WAB-Status-Saver">
-      <img src="https://play-lh.googleusercontent.com/ShIbFEANczFIjgV9BNSDjo42kME4iz6fq8yCUm9hfca27Rhgc88coq5tBfYGF7SBy_5K=w2560-h1440" width="1280" />
-    </a>
-  </p>
-   <p align="center">
-  <h1 align="center" href="" >2048 Classic</h1>
-    <p align="center">
-    <a href="https://github.com/BanRossyn/2048-Classic">
-      <img src="https://play-lh.googleusercontent.com/rtVpupsFXuIF83hHqlPCUIHa1d_D9YhinfzsuC7IOQtXOKZJSCgIfAMKuevq2p8KyRWd=w2560-h1440" width="1280" />
-    </a>
-  </p>
-  <p align="center">
-  <h1 align="center" href="" >Tic Tac Toe - Online</h1>
-    <p align="center">
-    <a href="https://github.com/BanRossyn/Tic-Tac-Toe-online">
-      <img src="https://play-lh.googleusercontent.com/qq_V4V8iP8CLCIRMj8gk8n0TJ8Bd6uPezio14PaHKcraFPvxHknCqaXtlDnzv3HpA8c=w2560-h1440" width="1280" />
-    </a>
-  </p>
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>InStory : Post &amp; Story Saver</li>
+</ul>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.storydownloader"><img src="https://play-lh.googleusercontent.com/DjcK-Pc16a_i6cvk2snjyHyT2twaIA3iqOIqBxX0uUwY09hvxb-0k6w02ufoY8Clxg=w2560-h1440" /></a></td>
+
+
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>2048: Charm Number Puzzle Game</li>
+</ul>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.merge.game2048"><img src="https://play-lh.googleusercontent.com/exSR4jzl3Leor9LhC7TpUD1DrVLplJwGhYJXSLo1wyJK4Dn_Qvf2dk4s4CNqky8QmmP_=w2560-h1440"/></a></td>
+
+
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>Tic Tac Toe - Classic</li>
+</ul>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.tic.tac.toe"><img src="https://play-lh.googleusercontent.com/B-gg84Uaw_I0sxA4a4MzU7YJt1gB5Kjs06lm_OEmUXho-mLzpNwOrElWjAfy_QLnIQ=w2560-h1440" /></a></td>
+
+
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>WA &amp; WAB Status Saver</li>
+</ul>
+<a href="https://github.com/BanRossyn/WA-WAB-Status-Saver"><img src="https://play-lh.googleusercontent.com/ShIbFEANczFIjgV9BNSDjo42kME4iz6fq8yCUm9hfca27Rhgc88coq5tBfYGF7SBy_5K=w2560-h1440"/></a></td>
+
+
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>2048 Classic</li>
+</ul>
+<a href="https://github.com/BanRossyn/2048-Classic"><img src="https://play-lh.googleusercontent.com/rtVpupsFXuIF83hHqlPCUIHa1d_D9YhinfzsuC7IOQtXOKZJSCgIfAMKuevq2p8KyRWd=w2560-h1440" /></a></td>
+
+
+</tr>
+</tbody>
+
+
+<tbody>
+<tr>
+
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>Tic Tac Toe - Online</li>
+</ul>
+<a href="https://github.com/BanRossyn/Tic-Tac-Toe-online"><img src="https://play-lh.googleusercontent.com/qq_V4V8iP8CLCIRMj8gk8n0TJ8Bd6uPezio14PaHKcraFPvxHknCqaXtlDnzv3HpA8c=w2560-h1440"/></a></td>
+
+
+
+<td style="width: 50%; text-align: center;">
+<ul style="list-style-type: circle;">
+<li>Network Speed Test</li>
+</ul>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.netspeed.internetspeedmeter"><img src="https://play-lh.googleusercontent.com/AjcbpJ8RgHjrQnzxHPP0J6YGid6Nd__swSTQqppX5hA2RrOQQSE7ci6pyAuWNl3t2rk=w2560-h1440"/></a></td>
+
+
+</tr>
+</tbody>
+
+</table>
+  
