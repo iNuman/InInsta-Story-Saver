@@ -62,7 +62,6 @@ import com.google.android.material.bottomsheet.BottomSheetDialog;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.reflect.TypeToken;
-import com.banrossyn.ininsta.story.downloader.BuildConfig;
 import com.banrossyn.ininsta.story.downloader.R;
 import com.banrossyn.ininsta.story.downloader.adapters.StoryAdapter;
 import com.banrossyn.ininsta.story.downloader.adapters.ProfileAdapter;
@@ -176,8 +175,8 @@ public class MainActivity extends AppCompatActivity implements UserListInterface
                 Intent shareIntent = new Intent(Intent.ACTION_SEND);
                 shareIntent.setType("text/plain");
                 shareIntent.putExtra(Intent.EXTRA_SUBJECT, "My application name");
-                String shareMessage = "InInsta \n\n Hello Let me Recommend you this App\n Download easy Instagram Story's, Post's, Reels IGTV and More. ";
-                shareMessage = shareMessage + "https://play.google.com/store/apps/details?id=" + BuildConfig.APPLICATION_ID;
+                String shareMessage = "InSaver \n\n Hello Let me Recommend you this App\n Download easy Instagram Story's, Post's, Reels IGTV and More. ";
+                shareMessage = shareMessage + "https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader";
                 shareIntent.putExtra(Intent.EXTRA_TEXT, shareMessage);
                 startActivity(Intent.createChooser(shareIntent, "choose one"));
 
@@ -613,7 +612,7 @@ public class MainActivity extends AppCompatActivity implements UserListInterface
 
     private void setDownloadStory(String Url) {
         String UrlWithoutQP = getUrlWithoutParameters(Url);
-        UrlWithoutQP = UrlWithoutQP + "?__a=1";
+        UrlWithoutQP = UrlWithoutQP + "?__a=1&__d=dis";
         try {
             Utils utils = new Utils(mainActivity);
             if (utils.isNetworkAvailable()) {

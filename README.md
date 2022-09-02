@@ -87,8 +87,7 @@ All Post types are Supported. You can view and save many things such as IGTV, Re
     <a>
       <img src="https://user-images.githubusercontent.com/97843190/183115448-c4cd6458-c925-4b52-b13d-9e0b614c52ff.png" hight="400" width="200" />
     </a>
- <a>
-  </p>
+</p>
   
 
 

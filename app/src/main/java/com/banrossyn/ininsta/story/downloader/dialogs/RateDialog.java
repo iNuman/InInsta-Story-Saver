@@ -11,8 +11,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-
-import com.banrossyn.ininsta.story.downloader.BuildConfig;
 import com.banrossyn.ininsta.story.downloader.R;
 import com.banrossyn.ininsta.story.downloader.preference.PrefManager;
 
@@ -112,7 +110,7 @@ public class RateDialog extends Dialog implements View.OnClickListener {
 
             }
         } else if (this.star_number >= 4) {
-            this.activity.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("https://play.google.com/store/apps/details?id=" + BuildConfig.APPLICATION_ID)));
+            this.activity.startActivity(new Intent("android.intent.action.VIEW", Uri.parse("https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader")));
             PrefManager.setRated(this.activity, true);
             dismiss();
         } else if (this.star_number > 0) {
